@@ -2,6 +2,6 @@
 
 # Author - Partha Kapri
 <br>
-# git repository #
+# Git Repository No. 3 #
 <br>
-# This is my third Web-Development project with HTML, CSS & JavaScript #
+# This is a "Hacker-Typer" Web-Development project using HTML, CSS & JavaScript #
